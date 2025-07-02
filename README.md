@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- Software Developer at ProtaSoftware
+- Software Developer at NETCAD
 - 🏗️ Civil Engineer by education
 - 💻 C# | VB.NET | Unity enthusiast
 
@@ -19,7 +19,7 @@
 
 ## ⚡ Interests
 
-- Exploring VR technologies and developing VR applications with hand tracking capabilities.
+- Exploring VR technologies and developing VR applications.
 - 🎮 Enjoy playing computer games.
 
 ## 📫 Contact
